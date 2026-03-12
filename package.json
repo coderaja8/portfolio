@@ -20,7 +20,7 @@
     "@astrojs/ts-plugin": "^1.10.6",
     "@radix-ui/react-dropdown-menu": "^2.1.16",
     "@radix-ui/react-slot": "^1.2.4",
-    "@tinacms/cli": "2.0.5",
+    "@tinacms/cli": "2.1.8",
     "@types/react": "^18.3.27",
     "@types/react-dom": "^18.3.7",
     "astro": "^5.16.6",
